@@ -1,1 +1,2 @@
-# Finance-and-Investments
+### The Purpose of this Repository:
+
